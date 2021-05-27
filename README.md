@@ -1,7 +1,7 @@
 
 ## About SYSLINCAM
 
-Sistema para calculo do valor da lincença do estado do Amazonas 
+Sistema para calculo do valor da licença do estado do Amazonas 
 
 
 <p align="center"><img src="https://static.alunosonline.uol.com.br/conteudo_legenda/ecd59e1736e42ded01a1d6f2a8465cd6.gif" width="250"></p>
